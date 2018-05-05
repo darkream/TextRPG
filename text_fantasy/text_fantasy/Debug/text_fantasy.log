@@ -1,0 +1,3 @@
+﻿  orc.cpp
+d:\text_fantasy\text_fantasy\orc.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  text_fantasy.vcxproj -> D:\text_fantasy\Debug\text_fantasy.exe

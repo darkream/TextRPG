@@ -1,0 +1,3 @@
+﻿  text_fantasy.cpp
+d:\textrpg\text_fantasy\text_fantasy\text_fantasy.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  text_fantasy.vcxproj -> D:\TextRPG\text_fantasy\x64\Debug\text_fantasy.exe

@@ -10,7 +10,7 @@ public:
 	~Monster();
 	void Strike(Hero &x);
 	char* monster_type;
-	int gethp();
+	void Summon();
 	int HP;
 	int ATK;
 	
